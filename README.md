@@ -157,7 +157,5 @@ bolttech-carental/
 
 For any queries:  
 **Shreya Dhaga**  
-📧 [your-email@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-
+📧 [dhagashreya@gmail.com]  
 ---
