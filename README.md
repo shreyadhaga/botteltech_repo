@@ -46,7 +46,7 @@ cd bolttech-carental
 ```bash
 cd backend
 npm install
-cd ../frontend
+cd ../src
 npm install
 ```
 
@@ -64,7 +64,7 @@ npm run dev
 
 ### Start Frontend:
 ```bash
-cd frontend
+cd src
 npm run dev
 ```
 
@@ -123,7 +123,7 @@ bolttech-carental/
 │   ├── routes/
 │   ├── services/
 │   └── index.ts
-├── frontend/
+├── src/
 │   ├── components/
 │   ├── pages/
 │   ├── services/
